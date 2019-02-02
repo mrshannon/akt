@@ -1,3 +1,5 @@
+**IN DEVELOPMENT**
+
 Akt: python virtual environment activation done right
 #####################################################
 
